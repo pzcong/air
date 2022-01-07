@@ -1,2 +1,2 @@
 # air
-预测、分类及计算模块
+LSTM-based prediction module, classifier module and calculation module
